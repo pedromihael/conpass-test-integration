@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/conpass-test-integration/precache-manifest.78aece1b160c9ce9d1237e070a774a6a.js"
+  "/conpass-test-integration/precache-manifest.0691aeab6122c9785a865b66e4655744.js"
 );
 
 self.addEventListener('message', (event) => {

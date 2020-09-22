@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd544fc9c9f486fe9411d3e2dff1b708",
+    "revision": "5d60ed767183287a4d5d019dc6b4e6d8",
     "url": "/conpass-test-integration/index.html"
   },
   {
