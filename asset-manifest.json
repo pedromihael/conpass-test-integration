@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/conpass-test-integration/static/js/main.76a258d1.chunk.js",
+    "main.js.map": "/conpass-test-integration/static/js/main.76a258d1.chunk.js.map",
+    "runtime-main.js": "/conpass-test-integration/static/js/runtime-main.4b37151a.js",
+    "runtime-main.js.map": "/conpass-test-integration/static/js/runtime-main.4b37151a.js.map",
+    "static/js/2.6cfe351a.chunk.js": "/conpass-test-integration/static/js/2.6cfe351a.chunk.js",
+    "static/js/2.6cfe351a.chunk.js.map": "/conpass-test-integration/static/js/2.6cfe351a.chunk.js.map",
+    "index.html": "/conpass-test-integration/index.html",
+    "precache-manifest.79ff0108552ad2c7b83f302ee6131b40.js": "/conpass-test-integration/precache-manifest.79ff0108552ad2c7b83f302ee6131b40.js",
+    "service-worker.js": "/conpass-test-integration/service-worker.js",
+    "static/js/2.6cfe351a.chunk.js.LICENSE.txt": "/conpass-test-integration/static/js/2.6cfe351a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b37151a.js",
+    "static/js/2.6cfe351a.chunk.js",
+    "static/js/main.76a258d1.chunk.js"
+  ]
+}
